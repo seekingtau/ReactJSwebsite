@@ -1,2 +1,2 @@
 # ReactJSwebsite
-Responsive website created with ReactJS, test
+Responsive website created with ReactJS, testing
