@@ -1,2 +1,2 @@
 # ReactJSwebsite
-Responsive website created with ReactJS, testing
+Responsive website created with ReactJS for AquaDAO
